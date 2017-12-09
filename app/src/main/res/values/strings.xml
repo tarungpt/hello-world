@@ -3,6 +3,6 @@
     <string name="sample_image">Sample Image</string>
     <string name="you_can">You can create constraints only between a constraint handle and an anchor point that share the same plane. So a vertical plane (the left and right sides) of a view can be constrained only to another vertical plane; and baselines can constrain only to other baselines.If you add opposing constraints on a view, the constraint lines become squiggly like a spring to indicate the opposing forces, as shown in video 2. The effect is most visible when the view size is set to fixedor wrap content,in which case the view is centered between the constraints. If you instead want the view to stretch its size to meet the constraints, switch the size to match constraints; or if you want to keep the current size but move the view so that it is not centered, adjust the constraint bias.</string>
     <string name="name">Name</string>
-    <string name="textview">TextView</string>
+    <string name="text_view">TextView</string>
     <string name="button">Button</string>
 </resources>
